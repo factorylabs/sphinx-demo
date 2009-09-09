@@ -1,0 +1,4 @@
+[Wed Sep  9 13:44:25.858 2009] 0.022 sec [all/2/rel 23 (0,20)] [*] Whakatane
+[Wed Sep  9 13:44:34.525 2009] 0.001 sec [scan/2/rel 40 (0,1000) @city_facet] [*] 
+[Wed Sep  9 13:44:34.577 2009] 0.001 sec [scan/2/rel 51 (0,1000) @state_facet] [*] 
+[Wed Sep  9 13:44:34.597 2009] 0.002 sec [scan/2/rel 930 (0,1000) @description_facet] [*] 
